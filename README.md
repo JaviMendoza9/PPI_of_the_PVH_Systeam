@@ -2,22 +2,22 @@
 
 ## Personal Information
 
-### Name: Francisco Javier Mendoza Proaño
-### Email: javier1997mendoza@gmail.com / francisco.mendoza@est.ikiam.edu.ec
-### Public Higher Education Institution: Universidad Regional Amazónica Ikiam
-### Country, Province, City: Ecuador, Napo, Tena
-### Contact: +593 96 056 5049
-### Repository Created on: 31/03/2025
+* Name: Francisco Javier Mendoza Proaño
+* Email: javier1997mendoza@gmail.com / francisco.mendoza@est.ikiam.edu.ec
+* Public Higher Education Institution: Universidad Regional Amazónica Ikiam
+* Country, Province, City: Ecuador, Napo, Tena
+* Contact: +593 96 056 5049
+* Repository Created on: 31/03/2025
 
 ## Computer Specifications
 
-### OS: Windows 10 Pro 64 bits (10.0, Build 19044)
-### Processor: Intel(R) Core(TM) i5-1021U CPU @ 1.60GHz (8 CPUs), ~2.1GHz
-### Memory: 16398MB RAM
-### DirectX Version: DirectX 12
-### Graphics Card Information
-### Name: NVIDIA GeForce MX 110
-### VRAM: 2010 MB
+* OS: Windows 10 Pro 64 bits (10.0, Build 19044)
+* Processor: Intel(R) Core(TM) i5-1021U CPU @ 1.60GHz (8 CPUs), ~2.1GHz
+* Memory: 16398MB RAM
+* DirectX Version: DirectX 12
+* Graphics Card Information
+* Name: NVIDIA GeForce MX 110
+* VRAM: 2010 MB
 
 ## Python/Anaconda Version and Modules/Packages Used
 
