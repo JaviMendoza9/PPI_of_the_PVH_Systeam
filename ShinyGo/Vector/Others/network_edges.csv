@@ -1,0 +1,159 @@
+"from","to","width"
+"Metabolic process","Organic substance metabolic
+process",4.00624454583269
+"Metabolic process","Primary metabolic process",3.54926092818664
+"Organic substance metabolic
+process","Primary metabolic process",4.3517826384732
+"Metabolic process","Cellular metabolic process",3.6609132101835
+"Organic substance metabolic
+process","Cellular metabolic process",3.49608863446317
+"Primary metabolic process","Cellular metabolic process",3.25759473028224
+"Metabolic process","Cytoplasm",0.946328281946023
+"Cellular metabolic process","Cytoplasm",0.851843802326408
+"Cytoplasm","Intracellular organelle",0.954726231434825
+"Metabolic process","Nitrogen compound metabolic
+process",2.95497527032715
+"Organic substance metabolic
+process","Nitrogen compound metabolic
+process",3.68796167647944
+"Primary metabolic process","Nitrogen compound metabolic
+process",3.71030959691547
+"Cellular metabolic process","Nitrogen compound metabolic
+process",2.88261730722805
+"Metabolic process","Intracellular
+membrane-bounded organelle",0.946757795329024
+"Organic substance metabolic
+process","Intracellular
+membrane-bounded organelle",0.816263374878215
+"Cellular metabolic process","Intracellular
+membrane-bounded organelle",0.960423972598355
+"Cytoplasm","Intracellular
+membrane-bounded organelle",0.913212334121902
+"Intracellular organelle","Intracellular
+membrane-bounded organelle",2.01850155027998
+"Metabolic process","Catalytic activity",2.05471291546691
+"Organic substance metabolic
+process","Catalytic activity",1.60650320526522
+"Primary metabolic process","Catalytic activity",1.49970761490192
+"Cellular metabolic process","Catalytic activity",1.44124839506173
+"Cytoplasm","Catalytic activity",0.823296777455612
+"Nitrogen compound metabolic
+process","Catalytic activity",1.16839588745685
+"Intracellular organelle","Membrane-bounded organelle",3.47351915832903
+"Intracellular
+membrane-bounded organelle","Membrane-bounded organelle",2.18278579385084
+"Metabolic process","Macromolecule metabolic
+process",2.26159400135199
+"Organic substance metabolic
+process","Macromolecule metabolic
+process",2.82258605968588
+"Primary metabolic process","Macromolecule metabolic
+process",2.89344124857314
+"Cellular metabolic process","Macromolecule metabolic
+process",2.07520917069481
+"Nitrogen compound metabolic
+process","Macromolecule metabolic
+process",3.53047709313065
+"Metabolic process","Organonitrogen compound
+metabolic process",1.55709919147691
+"Organic substance metabolic
+process","Organonitrogen compound
+metabolic process",1.94334017015587
+"Primary metabolic process","Organonitrogen compound
+metabolic process",1.91336923652641
+"Cellular metabolic process","Organonitrogen compound
+metabolic process",1.41026797999817
+"Nitrogen compound metabolic
+process","Organonitrogen compound
+metabolic process",2.63470765240029
+"Catalytic activity","Organonitrogen compound
+metabolic process",1.0174890950724
+"Macromolecule metabolic
+process","Organonitrogen compound
+metabolic process",1.72195660339021
+"Metabolic process","Protein metabolic process",0.969524653761952
+"Organic substance metabolic
+process","Protein metabolic process",1.21001681583623
+"Primary metabolic process","Protein metabolic process",1.36581202872748
+"Cellular metabolic process","Protein metabolic process",0.875261078841281
+"Nitrogen compound metabolic
+process","Protein metabolic process",1.64049537655625
+"Macromolecule metabolic
+process","Protein metabolic process",2.14345424771724
+"Organonitrogen compound
+metabolic process","Protein metabolic process",3.11323985995508
+"Metabolic process","Cellular macromolecule
+metabolic process",1.17421253241642
+"Organic substance metabolic
+process","Cellular macromolecule
+metabolic process",1.46547785461304
+"Primary metabolic process","Cellular macromolecule
+metabolic process",1.60648547265538
+"Cellular metabolic process","Cellular macromolecule
+metabolic process",1.60371533685931
+"Nitrogen compound metabolic
+process","Cellular macromolecule
+metabolic process",1.88217216118965
+"Macromolecule metabolic
+process","Cellular macromolecule
+metabolic process",2.59598436260989
+"Organonitrogen compound
+metabolic process","Cellular macromolecule
+metabolic process",1.58897201706245
+"Protein metabolic process","Cellular macromolecule
+metabolic process",2.28332479697594
+"Intracellular organelle","Nucleus",0.808794957794605
+"Intracellular
+membrane-bounded organelle","Nucleus",1.82157408427314
+"Membrane-bounded organelle","Nucleus",0.843910548969042
+"Biological regulation","Reg. of biological process",3.99355949344125
+"Organic substance metabolic
+process","Cellular protein metabolic
+process",0.815263808620661
+"Primary metabolic process","Cellular protein metabolic
+process",0.920232761914752
+"Cellular metabolic process","Cellular protein metabolic
+process",0.892167063020213
+"Nitrogen compound metabolic
+process","Cellular protein metabolic
+process",1.10530406785425
+"Macromolecule metabolic
+process","Cellular protein metabolic
+process",1.44417883349036
+"Organonitrogen compound
+metabolic process","Cellular protein metabolic
+process",2.09758389483419
+"Protein metabolic process","Cellular protein metabolic
+process",3.36881189563155
+"Cellular macromolecule
+metabolic process","Cellular protein metabolic
+process",2.78156304462181
+"Biological regulation","Reg. of cellular process",3.45731542829611
+"Reg. of biological process","Reg. of cellular process",4.32861390192656
+"Organic substance metabolic
+process","Cellular nitrogen compound
+metabolic process",0.96478661963179
+"Primary metabolic process","Cellular nitrogen compound
+metabolic process",0.988765605649124
+"Cellular metabolic process","Cellular nitrogen compound
+metabolic process",1.05579425429714
+"Nitrogen compound metabolic
+process","Cellular nitrogen compound
+metabolic process",1.30802148214401
+"Macromolecule metabolic
+process","Cellular nitrogen compound
+metabolic process",0.85466766994723
+"Catalytic activity","Hydrolase activity",0.941356212830127
+"Macromolecule metabolic
+process","Macromolecule modification",0.902669048978615
+"Organonitrogen compound
+metabolic process","Macromolecule modification",0.999915585617967
+"Protein metabolic process","Macromolecule modification",1.53390325925207
+"Cellular macromolecule
+metabolic process","Macromolecule modification",1.53284610454053
+"Cellular protein metabolic
+process","Macromolecule modification",2.21123473733512
+"Nitrogen compound metabolic
+process","Heterocycle metabolic process",0.910981215078328
+"Cellular nitrogen compound
+metabolic process","Heterocycle metabolic process",3.31840013609674

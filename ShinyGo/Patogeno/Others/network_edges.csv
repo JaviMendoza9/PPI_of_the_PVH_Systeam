@@ -1,0 +1,187 @@
+"from","to","width"
+"Reg. of peptide secretion","Pos. reg. of peptide
+secretion",5
+"Reg. of peptide secretion","Modulation of proc. of other
+organism",5
+"Pos. reg. of peptide
+secretion","Modulation of proc. of other
+organism",5
+"Reg. of peptide secretion","Modulation by symbiont of
+host process",5
+"Pos. reg. of peptide
+secretion","Modulation by symbiont of
+host process",5
+"Modulation of proc. of other
+organism","Modulation by symbiont of
+host process",5
+"Reg. of peptide secretion","Multi-organism metabolic
+process",5
+"Pos. reg. of peptide
+secretion","Multi-organism metabolic
+process",5
+"Modulation of proc. of other
+organism","Multi-organism metabolic
+process",5
+"Modulation by symbiont of
+host process","Multi-organism metabolic
+process",5
+"Reg. of peptide secretion","Multi-organism catabolic
+process",5
+"Pos. reg. of peptide
+secretion","Multi-organism catabolic
+process",5
+"Modulation of proc. of other
+organism","Multi-organism catabolic
+process",5
+"Modulation by symbiont of
+host process","Multi-organism catabolic
+process",5
+"Multi-organism metabolic
+process","Multi-organism catabolic
+process",5
+"Reg. of peptide secretion","Interaction with host",5
+"Pos. reg. of peptide
+secretion","Interaction with host",5
+"Modulation of proc. of other
+organism","Interaction with host",5
+"Modulation by symbiont of
+host process","Interaction with host",5
+"Multi-organism metabolic
+process","Interaction with host",5
+"Multi-organism catabolic
+process","Interaction with host",5
+"Reg. of peptide secretion","Metabolism by symbiont of
+substance in host",5
+"Pos. reg. of peptide
+secretion","Metabolism by symbiont of
+substance in host",5
+"Modulation of proc. of other
+organism","Metabolism by symbiont of
+substance in host",5
+"Modulation by symbiont of
+host process","Metabolism by symbiont of
+substance in host",5
+"Multi-organism metabolic
+process","Metabolism by symbiont of
+substance in host",5
+"Multi-organism catabolic
+process","Metabolism by symbiont of
+substance in host",5
+"Interaction with host","Metabolism by symbiont of
+substance in host",5
+"Reg. of peptide secretion","Response to defenses of other
+organism",5
+"Pos. reg. of peptide
+secretion","Response to defenses of other
+organism",5
+"Modulation of proc. of other
+organism","Response to defenses of other
+organism",5
+"Modulation by symbiont of
+host process","Response to defenses of other
+organism",5
+"Multi-organism metabolic
+process","Response to defenses of other
+organism",5
+"Multi-organism catabolic
+process","Response to defenses of other
+organism",5
+"Interaction with host","Response to defenses of other
+organism",5
+"Metabolism by symbiont of
+substance in host","Response to defenses of other
+organism",5
+"Reg. of peptide secretion","Response to host defenses",5
+"Pos. reg. of peptide
+secretion","Response to host defenses",5
+"Modulation of proc. of other
+organism","Response to host defenses",5
+"Modulation by symbiont of
+host process","Response to host defenses",5
+"Multi-organism metabolic
+process","Response to host defenses",5
+"Multi-organism catabolic
+process","Response to host defenses",5
+"Interaction with host","Response to host defenses",5
+"Metabolism by symbiont of
+substance in host","Response to host defenses",5
+"Response to defenses of other
+organism","Response to host defenses",5
+"Reg. of peptide secretion","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Pos. reg. of peptide
+secretion","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Modulation of proc. of other
+organism","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Modulation by symbiont of
+host process","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Multi-organism metabolic
+process","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Multi-organism catabolic
+process","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Interaction with host","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Metabolism by symbiont of
+substance in host","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Response to defenses of other
+organism","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Response to host defenses","Metabolism of substance in
+other organism involved in
+symbiotic interaction",5
+"Reg. of peptide secretion","Cell adhesion",4.48753462603879
+"Pos. reg. of peptide
+secretion","Cell adhesion",4.48753462603879
+"Modulation of proc. of other
+organism","Cell adhesion",4.48753462603879
+"Modulation by symbiont of
+host process","Cell adhesion",4.48753462603879
+"Multi-organism metabolic
+process","Cell adhesion",4.48753462603879
+"Multi-organism catabolic
+process","Cell adhesion",4.48753462603879
+"Interaction with host","Cell adhesion",4.48753462603879
+"Metabolism by symbiont of
+substance in host","Cell adhesion",4.48753462603879
+"Response to defenses of other
+organism","Cell adhesion",4.48753462603879
+"Response to host defenses","Cell adhesion",4.48753462603879
+"Metabolism of substance in
+other organism involved in
+symbiotic interaction","Cell adhesion",4.48753462603879
+"Reg. of peptide secretion","Biological adhesion",4.48753462603879
+"Pos. reg. of peptide
+secretion","Biological adhesion",4.48753462603879
+"Modulation of proc. of other
+organism","Biological adhesion",4.48753462603879
+"Modulation by symbiont of
+host process","Biological adhesion",4.48753462603879
+"Multi-organism metabolic
+process","Biological adhesion",4.48753462603879
+"Multi-organism catabolic
+process","Biological adhesion",4.48753462603879
+"Interaction with host","Biological adhesion",4.48753462603879
+"Metabolism by symbiont of
+substance in host","Biological adhesion",4.48753462603879
+"Response to defenses of other
+organism","Biological adhesion",4.48753462603879
+"Response to host defenses","Biological adhesion",4.48753462603879
+"Metabolism of substance in
+other organism involved in
+symbiotic interaction","Biological adhesion",4.48753462603879
+"Cell adhesion","Biological adhesion",5
